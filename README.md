@@ -1,0 +1,2 @@
+Just a repository for the files i made while following along this excellent Cinder writeup  
+[http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/]([http://www.creativeapplications.net/tutorials/guide-to-meshes-in-cinder-cinder-tutorials/])
